@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Prex-san
-- 👀 I’m interested in creating new things
+- 👋 Hello, I’m Raghu
+- 📔 @Prex-san is my internet persona
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently learning C and web development 
-- 📫 How to reach me @Prex-san#1185 on discord 
+- 📫 Reach me on discord @Prex-san#1185
 
 <!---
 Prex-san/Prex-san is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
