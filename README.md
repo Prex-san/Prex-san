@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Raghu
 - 🎮 Aspiring game developer
 - 📔 @Prex-san is my internet persona
-- Visit my portfolio: prex-san.github.io/portfolio
+- [Visit my portfolio](prex-san.github.io/portfolio)
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning C#
 - 📚I'm preparing for GATE
